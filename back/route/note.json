@@ -1,0 +1,18 @@
+[   
+    { 
+         "nom":"Bruno",
+        "prenom":"test"
+    },
+    { 
+        "nom":"Rakoto",
+        "prenom":"Lova"
+    },
+    { 
+        "nom":"Rabera",
+        "prenom":"Sahondra"
+    },
+    { 
+        "nom":"Tsialo",
+        "prenom":"Rasoa"
+    }
+]
